@@ -12,7 +12,6 @@ def main():
         i += 1
     print(total)
     
-    total = 0
 
     ########################################
     # Do not delete the return statement
